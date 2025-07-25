@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Student at Humboldt University of Berlin<br>⚙️ Python developer - Machine Learning (Computer Vision & NLP) and Software Engineering<br>💬 Python, SQL, sometimes Java, C/C++, Prolog<br><br>💼 Worked for: Bosch, MHP - A Porsche Company & KfW<br><br>My organization: [FrameworkV](https://github.com/FrameworkV)
+👨‍🎓 B.Sc. Computer Science @ Humboldt University Berlin, M.Sc. student @ HPI<br>⚙️ Python & Java developer - AI, Machine Learning, Backend, Software Engineering<br>💬 Python, SQL, Java, C/C++, Prolog<br><br>💼 Worked for: Bosch, MHP - A Porsche Company & KfW<br><br>My startup: [Quantly](https://github.com/QuantlyDevs)
 
 
 ## 🌐 Socials:

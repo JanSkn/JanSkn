@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 B.Sc. Computer Science @ Humboldt University Berlin, M.Sc. student @ HPI<br>⚙️ Python & Java developer - AI, Machine Learning, Backend, Software Engineering<br>💬 Python, SQL, Java, C/C++, Prolog<br><br>💼 Worked for: Bosch, MHP - A Porsche Company & KfW<br><br>My startup: [Quantly](https://github.com/QuantlyDevs)
+👨‍🎓 M.Sc. student @ HPI, B.Sc. Computer Science @ Humboldt University Berlin<br>⚙️ Python & Java developer - AI, Machine Learning, Backend, Software Engineering<br>💬 Python, SQL, Java, C/C++, Prolog<br><br>💼 Worked for: Bosch, MHP - A Porsche Company & KfW<br><br>My startup: FoodFusionAI | Landingpage: https://foodfusionai.de | [README](https://github.com/QuantlyDevs/FoodFusionAI-README)
 
 
 ## 🌐 Socials:

@@ -1,42 +1,54 @@
-# 💫 About Me:
-👨‍🎓 M.Sc. student @ HPI, B.Sc. Computer Science @ Humboldt University Berlin<br>⚙️ Python & Java developer - AI, Machine Learning, Backend, Software Engineering<br>💬 Python, SQL, Java, C/C++, Prolog<br><br>💼 Work(ed) for: Taktile, Bosch, MHP - A Porsche Company & KfW<br><br>My startup: FoodFusionAI | Landingpage: https://foodfusionai.de | [README](https://github.com/QuantlyDevs/FoodFusionAI-README)
+<h1 align="center">Hi, I'm Jan 👋</h1>
 
+<p align="center">
+  <b>Software Engineer · Backend, Cloud & Data Systems</b><br>
+  M.Sc. Software Engineering @ Hasso Plattner Institute · B.Sc. Computer Science @ Humboldt University Berlin<br>
+  Berlin, Germany
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jan-skowron-908316222/) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jan-skowron-908316222/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-<br><br>
+---
 
-# 💻 Tech Stack:
+## 🚀 About me
 
-## Programming languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+I build reliable backend systems and enjoy working close to the data: from cloud infrastructure and APIs to database internals and optimization problems. I like projects where I can take an idea from prototype to production and measure the impact.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+## 💼 Experience
 
-## 📚 Frameworks and libraries
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+| Company | Role 
+|---|---|
+| **Taktile** | Software Engineer, Working Student |
+| **Bosch** | Software Engineer, Working Student |
+| **MHP – A Porsche Company** | Software Engineer, Intern |
+| **KfW** | Data Integration, Working Student |
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FEAA02?logo=huggingface&logoColor=white&style=for-the-badge) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge) ![Ultralytics](https://img.shields.io/badge/-Ultralytics%20%7C%20YOLO-3776AB?logo=python&logoColor=white&style=for-the-badge)
+## 🛠️ Selected projects
 
+- **Hosting Platform**: AWS-based, scalable API hosting platform.
+- **In-memory Database**: Improved high-performance aggregation operations on open-source database Hyrise.
+- **FoodFusionAI**: AI-powered meal planning app, built with two friends. I lead the backend.
+- **Search engine from scratch**: crawls and indexes millions of websites.
+- **Bachelor thesis (HU Berlin)**: improved pattern search over database tables, ~2x faster than standard SQL joins.
+- **Open-source ML library**: published on PyPI, 5,000+ downloads.
 
+## 🧰 Core skills
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![Pydantic](https://img.shields.io/badge/-Pydantic-3776AB?logo=python&logoColor=white&style=for-the-badge)
+**Languages:** Python · Java · C++ · SQL
 
-## ☁️ Cloud services
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Backend Engineering:** REST APIs · Microservices · Distributed Systems
 
-## 📦 Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-E34F26?style=for-the-badge&logo=mongodb&logoColor=white)
+**Cloud & Infrastructure:** AWS · Azure · Docker · CI/CD · Linux
 
-## 🛠️ Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+**Databases & Data Systems:** PostgreSQL · Redis · NoSQL · SQL Optimization · Database Internals
 
-<br><br>
+**AI & Machine Learning:** LLMs · RAG · LangGraph · Embeddings
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JanSkn&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+**Tools & Development:** Git · GitHub Actions · Jira · Linear · Confluence
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Let's connect
+
+I'm always happy to talk about backend engineering, data systems and AI.
+Reach out on [LinkedIn](https://www.linkedin.com/in/jan-skowron-908316222/).
